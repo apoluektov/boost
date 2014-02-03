@@ -1,0 +1,2 @@
+The "non-modularized" version of Boost.
+It is mirroring the official releases and doesn't contain submodules, which makes it simpler to use Boost as a subtree in your own projects.
